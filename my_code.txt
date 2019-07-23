@@ -3,6 +3,11 @@ def add(a,b)
   return c
 end
 
+def sub(a,b)
+  c = a-b
+  return c
+end
+
 def mul(a,b)
   c = a*b
   return c
