@@ -8,3 +8,7 @@ def sub(a,b)
   return c
 end
 
+def mul(a,b)
+  c = a*b
+  return c
+end
