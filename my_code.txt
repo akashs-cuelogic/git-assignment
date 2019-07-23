@@ -1,5 +1,10 @@
 def add(a,b)
   c = a+b
-  retunr c
+  return c
+end
+
+def sub(a,b)
+  c = a-b
+  return c
 end
 
